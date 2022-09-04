@@ -12,9 +12,11 @@
 　　问题二的完整代码：[航班延误准确率](https://github.com/willow017/-Logistic-/blob/main/ddb2.py)
   
 ## 训练集中航班延误比例
+==============================================================================
  ![](https://github.com/willow017/-Logistic-/blob/main/%E8%AE%AD%E7%BB%83%E9%9B%86%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF.png)
  
 ## 训练集中航班延误原因比例
+==============================================================================
  ![](https://github.com/willow017/-Logistic-/blob/main/%E8%AE%AD%E7%BB%83%E9%9B%86%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%E5%8E%9F%E5%9B%A0.png)
 
 
